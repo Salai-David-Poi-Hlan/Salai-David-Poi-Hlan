@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning bash, network automation with python (Netmiko), ETL pipelines, web sockets, and image processing
 - 💞️ I’m looking to collaborate on my academic computer engineering group project and further internship
 - 📫 my email address is davidsalai9213@gmail.com
-- ⚡ Fun fact: I am very active on night time and always hungry. 
 
 <!---
 Salai-David-Poi-Hlan/Salai-David-Poi-Hlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
