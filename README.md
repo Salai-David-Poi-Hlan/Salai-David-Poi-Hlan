@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Salai-David-Poi-Hlan
-- 👀 I’m interested in learning programming, playing games and, listening musics. 
 - 🌱 I’m currently learning bash, network automation with python (Netmiko), ETL pipelines, web sockets, and image processing
 - 💞️ I’m looking to collaborate on my academic computer engineering group project and further internship
 - 📫 my email address is davidsalai9213@gmail.com
